@@ -28,3 +28,4 @@ pids
 # Test coverage
 .nyc_output
 packages/*/coverage
+.idea
